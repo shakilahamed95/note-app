@@ -1,3 +1,20 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "id": 1694605472866,
+      "title": "I want to learn Html"
+    },
+    {
+      "id": 1694605537330,
+      "title": "I want to learn More about React"
+    },
+    {
+      "id": 1694605551706,
+      "title": "I will learn more about Next.js"
+    },
+    {
+      "id": 1694605740833,
+      "title": "I will learn Prisma"
+    }
+  ]
 }
